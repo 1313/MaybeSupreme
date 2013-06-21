@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaybeSupreme", "MaybeSupreme\MaybeSupreme.csproj", "{1352E0AF-4638-460C-9779-F7BE62132C11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaybeSupreme", "src\MaybeSupreme.csproj", "{1352E0AF-4638-460C-9779-F7BE62132C11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
