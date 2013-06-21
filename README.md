@@ -1,7 +1,9 @@
 MaybeSupreme
-============
 Elimianting not null checks since 2013
 ## Background: ##
+
+# Background: #
+>>>>>>> d7b40787585c52572bc931329816a73f3b942f6d
 After reading [this](http://www.codeproject.com/Articles/109026/Chained-null-checks-and-the-Maybe-monad) post (which is fairly old) I'm in love.
 
 So this is a slightly different version of it which also works for value types.
