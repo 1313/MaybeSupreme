@@ -1,6 +1,6 @@
 MaybeSupreme
 =======
-Elimianting not null checks since 2013
+Elimianting not null check nesting since 2013
 ## Background: ##
 
 After reading [this](http://www.codeproject.com/Articles/109026/Chained-null-checks-and-the-Maybe-monad) post I really starting to like this "pattern".
